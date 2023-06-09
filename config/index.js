@@ -11,5 +11,5 @@ export default {
   port: 5000,
   database_url: "mongodb://127.0.0.1:27017",
   database_name: "e-commerce",
-  secret_key: "123456",
+  secret_key: "our_e-commerce",
 };
